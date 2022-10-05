@@ -31,6 +31,8 @@
 }
 
 .task-item .actions button {
+  width: 25px;
+  height: 25px;
   background-color: #f12d22;
   color: white;
   font-weight: bold;
